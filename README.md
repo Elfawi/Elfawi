@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elfawi</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Graduation-Project](https://github.com/Edu-graduation/EduCore)
-
 - 🌱 I’m currently learning **React, Next ,Angular**
 
 - 👨‍💻 All of my projects are available at [https://mohamed-elfawi.netlify.app/](https://mohamed-elfawi.netlify.app/)
