@@ -1,11 +1,4 @@
 <h1 align="left">Hi 👋! My name is Mohamed and I'm a Front end Developer , from Egypt</h1>
-- 🌱 I’m currently learning **React, Next ,Angular**
-
-- 👨‍💻 All of my projects are available at [https://mohamed-elfawi.netlify.app/](https://mohamed-elfawi.netlify.app/)
-
-- 📫 How to reach me **mohamedelfawi1@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BXKtNuTkwgVSLrLo0T16gcLWJWp2YjvE/view?usp=sharing]
 
 ###
 
@@ -45,7 +38,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="mailto:mohamedelfawi1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -61,12 +54,14 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Elfawi/Elfawi/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Elfawi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Elfawi/Elfawi/output/snake.svg" alt="Snake animation" />
 
 ###
