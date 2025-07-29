@@ -50,7 +50,7 @@
 
 ###
 
-<img align="right" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZqcGV5aTlzZXpkYjhtOWRtejF3ZDMwZmlpZ25qenQ4YTVwbnRobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif"  />
+<img align="right" height="230" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZqcGV5aTlzZXpkYjhtOWRtejF3ZDMwZmlpZ25qenQ4YTVwbnRobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif"  />
 
 ###
 
