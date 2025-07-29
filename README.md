@@ -50,7 +50,23 @@
 
 ###
 
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZqcGV5aTlzZXpkYjhtOWRtejF3ZDMwZmlpZ25qenQ4YTVwbnRobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif"  />
+<img align="right" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZqcGV5aTlzZXpkYjhtOWRtejF3ZDMwZmlpZ25qenQ4YTVwbnRobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif"  />
+
+###
+
+<p align="left">- 🌱 I’m currently learning Advanced React Topics, Next</p>
+
+###
+
+<p align="left">- 👨‍💻 All of my projects are available at [https://mohamed-elfawi.netlify.app/]</p>
+
+###
+
+<p align="left">- 📫 How to reach me mohamedelfawi1@gmail.com</p>
+
+###
+
+<p align="left">- 📄 Know about my experiences [https://drive.google.com/file/d/1BXKtNuTkwgVSLrLo0T16gcLWJWp2YjvE/view?usp=sharing]</p>
 
 ###
 
