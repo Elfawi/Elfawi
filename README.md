@@ -49,13 +49,7 @@
 </div>
 
 ###
-- 🌱 I’m currently learning **React, Next ,Angular**
 
-- 👨‍💻 All of my projects are available at [https://mohamed-elfawi.netlify.app/](https://mohamed-elfawi.netlify.app/)
-
-- 📫 How to reach me **mohamedelfawi1@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BXKtNuTkwgVSLrLo0T16gcLWJWp2YjvE/view?usp=sharing]
 <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZqcGV5aTlzZXpkYjhtOWRtejF3ZDMwZmlpZ25qenQ4YTVwbnRobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif"  />
 
 ###
@@ -63,7 +57,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elfawi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elfawi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="350" alt="stats graph"  />
 </div>
 
 ###
