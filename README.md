@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Mohamed and I'm a Front end Developer , from Egypt</h1>
+<h1 align="left">Hi 👋! My name is Mohamed and I'm a Software Engineer specializing in Frontend Development , from Egypt</h1>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Advanced React Topics, Next</p>
+<p align="left">- 🌱 I’m currently learning Advanced React Topics, Next and Angular</p>
 
 ###
 
