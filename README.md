@@ -54,7 +54,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Advanced React Topics, Next and Angular</p>
+<p align="left">- 🌱 I’m currently learning Advanced React Topics, Next, React Native, Node JS, and Angular</p>
 
 ###
 
