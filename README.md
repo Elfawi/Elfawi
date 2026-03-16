@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left">- 👨‍💻 All of my projects are available at [https://mohamed-elfawi.netlify.app/]</p>
+<p align="left">- 👨‍💻 All of my projects are available at [https://mohamed-elfawi.vercel.app/]</p>
 
 ###
 
